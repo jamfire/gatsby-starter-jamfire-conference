@@ -1,10 +1,10 @@
 # Gatsby Starter Conferencing Site
 
-This is a starter for gatsby using [@jampile/gatsby-theme-conference](https://github.com/jampile/gatsby-theme-conference). Visit the theme [README](https://github.com/jampile/gatsby-theme-conference/blob/master/README.md) for configuration setup and installation.
+This is a starter for gatsby using [gatsby-theme-jamfire-conference](https://github.com/jamfire/gatsby-theme-jamfire-conference). Visit the theme [README](https://github.com/jampfire/gatsby-theme-jamfire-conference/blob/master/README.md) for configuration setup and installation.
 
 ## Installation
 
-View the ```@jampile/gatsby-theme-conference``` [README](https://github.com/jampile/gatsby-theme-conference/blob/master/README.md#seting-up-your-environment) for environmental variables setup or you build will fail. 
+View the ```@jampile/gatsby-theme-conference``` [README](https://github.com/jampfire/gatsby-theme-jamfire-conference/blob/master/README.md#seting-up-your-environment) for environmental variables setup or you build will fail. 
 
 You can set up a new site from this starter using this command:
 
