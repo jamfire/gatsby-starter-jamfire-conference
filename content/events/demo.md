@@ -41,14 +41,14 @@ eventSchedule:
     description: How to deploy
 
 eventRooms:
-  - slug: jampile-conference-room-1
+  - slug: jamfire-conference-room-1
     title: Conference Room 1
     description: >+
       Conference Room 1 with a graphic.
 
     image: /assets/conference-room-1.jpg
   - title: Conference Room 2
-    slug: jampile-conference-room-2
+    slug: jamfire-conference-room-2
     description: >+
       Conference Room 2 without a graphic.
 

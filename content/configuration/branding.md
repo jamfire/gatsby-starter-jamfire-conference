@@ -1,8 +1,8 @@
 ---
 templateKey: branding
-title: Jampile Conferencing
+title: Jamfire Conference
 description: Online Conferencing
-siteUrl: https://jampileconference.netlify.app
+siteUrl: https://conference.jamfire.io
 primaryColor: "#0069b4"
 primaryColorHover: "#0587d3"
 darkModeOnColor: "#024c83"

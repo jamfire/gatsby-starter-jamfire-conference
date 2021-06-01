@@ -5,19 +5,19 @@ pageBranding:
   primaryColor: "#2973e0"
   primaryColorHover: "#3a7fe4"
 pageGraphics:
-  featuredImage: /assets/jampile-home.jpg
+  featuredImage: /assets/jamfire-home.jpg
 ---
-This is a demo site for ```@jampile/gatsby-theme-conference```, a GatsbyJS theme that tries to push the limits of Jamstack technology to provide an online conferencing space.
+This is a demo site for ```gatsby-theme-jamfire-conference```, a GatsbyJS theme that tries to push the limits of Jamstack technology to provide an online conferencing space.
 
 ## Get your feet wet
 
-Skip all the hoopla and head on over to the [starter](https://github.com/jampile/gatsby-starter-conference) if you want to get up and running quickly using [Netlify](https://netlify.com). You will need to setup a [Google Firebase](https://firebase.google.com/) account in order to use the chat feature and user authentication.
+Skip all the hoopla and head on over to the [starter](https://github.com/jamfire/gatsby-starter-jamfire-conference) if you want to get up and running quickly using [Netlify](https://netlify.com). You will need to setup a [Google Firebase](https://firebase.google.com/) account in order to use the chat feature and user authentication.
 
-Or you can one-click deploy to Netlify Gatsby Cloud but dont forget, you need to setup your [environmental config](https://github.com/jampile/gatsby-theme-conference#seting-up-your-environment) for your site to work correctly:
+Or you can one-click deploy to Netlify Gatsby Cloud but dont forget, you need to setup your [environmental config](https://github.com/jamfire/gatsby-theme-conference#seting-up-your-environment) for your site to work correctly:
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/jampile/gatsby-starter-conference"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/jamfire/gatsby-starter-jamfire-conference"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/jampile/gatsby-starter-conference)
+[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/jamfire/gatsby-starter-jamfire-conference)
 
 ## The technology behind this theme
 
