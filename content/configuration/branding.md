@@ -3,8 +3,8 @@ templateKey: branding
 title: Jamfire Conference
 description: Online Conferencing
 siteUrl: https://conference.jamfire.io
-primaryColor: "#0069b4"
-primaryColorHover: "#0587d3"
-darkModeOnColor: "#024c83"
-darkModeOffColor: "#0088ec"
+primaryColor: "#E3053E"
+primaryColorHover: "#ff0050"
+darkModeOnColor: "#ff0050"
+darkModeOffColor: "#ff0050"
 ---
