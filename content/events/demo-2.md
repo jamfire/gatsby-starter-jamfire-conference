@@ -7,8 +7,8 @@ eventInformation:
   endTime: Friday, January 1, 2021 12:00 PM
 eventGraphics:
   lobbyImage: /assets/demo-event-2.jpg
-  headerLogo: /assets/demo-logo.png
-  favicon: /assets/demo-favicon.png
+  headerLogo: /assets/demo-logo-2.png
+  favicon: /assets/demo-favicon-2.png
 eventBranding:
   primaryColor: "#114878"
   primaryColorHover: "#165891"
