@@ -14,9 +14,7 @@ npx gatsby new conference-demo jamfire/gatsby-starter-jamfire-conference
 
 Or, deploy directly to Netlify or Gatsby Cloud:
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/jamfire/gatsby-starter-jamfire-conference"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a> 
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/jamfire/gatsby-starter-jamfire-conference)
+[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" height="38">](https://app.netlify.com/start/deploy?repository=https://github.com/jamfire/gatsby-starter-jamfire-conference) [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/jamfire/gatsby-starter-jamfire-conference)
 
 ## Changelog
 
