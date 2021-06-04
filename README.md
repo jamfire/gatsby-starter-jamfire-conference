@@ -4,7 +4,7 @@ This is a starter for gatsby using [gatsby-theme-jamfire-conference](https://git
 
 ## Installation
 
-View the ```gatsby-theme-jamfire-conference``` [README](https://github.com/jamfire/gatsby-theme-jamfire-conference/blob/master/README.md#seting-up-your-environment) for plugin configuration options.
+View the ```gatsby-theme-jamfire-conference``` [README](https://github.com/jamfire/gatsby-theme-jamfire-conference/blob/master/README.md#plugin-configuration) for plugin configuration options.
 
 You can set up a new site from this starter using this command:
 
