@@ -3,6 +3,8 @@ module.exports = {
 	 * Plugins
 	 */
 	plugins: [
-		`gatsby-theme-jamfire-conference`,
+		{
+			resolve: `gatsby-theme-jamfire-conference`,
+		}
 	],
 }
