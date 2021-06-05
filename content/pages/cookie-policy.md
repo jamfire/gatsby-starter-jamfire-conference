@@ -1,6 +1,10 @@
 ---
 templateKey: cookie-policy
 title: Cookie Policy
+cookieNotification:
+  title: Your Choice Regarding Cookies
+  content: We use cookies to remember your account settings, and for analytics.
+    [Learn more](/cookies)
 necessaryCookies:
   title: Necessary Cookies
   content: These cookies are necessary for our website to function. They cannot be
