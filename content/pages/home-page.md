@@ -52,3 +52,7 @@ This theme features the following:
 This theme uses Netlify CMS to manage content. It was developed in such a way that the theme lives separately from your content. This means that you can keep up-to-date with new features by simply updating the theme without possibly messing up your content.
 
 You will need your Github login where your site is stored to login. You can login by appending ```/admin``` to your domain, for example ```https://localhost:8000/admin```.
+
+## Issues/Bug Reports
+
+Find an issue? [Report it.](https://github.com/jamfire/gatsby-theme-jamfire-conference/issues)
