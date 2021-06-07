@@ -15,7 +15,7 @@ Skip the details and head on over to the [starter](https://github.com/jamfire/ga
 
 Or you can one-click deploy to [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/jamfire/gatsby-starter-jamfire-conference) or [Gatsby Cloud](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/jamfire/gatsby-starter-jamfire-conference) but dont forget, you need to setup your [environmental config](https://github.com/jamfire/gatsby-theme-jamfire-conference#seting-up-your-environment) for your site to work correctly:
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" height="38">](https://app.netlify.com/start/deploy?repository=https://github.com/jamfire/gatsby-starter-jamfire-conference) [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/jamfire/gatsby-starter-jamfire-conference)
+[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" height="38" width="173">](https://app.netlify.com/start/deploy?repository=https://github.com/jamfire/gatsby-starter-jamfire-conference) [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" height="38" width="251">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/jamfire/gatsby-starter-jamfire-conference)
 
 ## The technology behind this theme
 
