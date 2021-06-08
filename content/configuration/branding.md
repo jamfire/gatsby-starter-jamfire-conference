@@ -1,7 +1,7 @@
 ---
 templateKey: branding
 title: Jamfire Conference
-description: Online Conferencing
+description: Jamstack conferencing using GatsbyJS, Netlify CMS, and Firebase
 siteUrl: https://conference.jamfire.io
 primaryColor: "#E3053E"
 primaryColorHover: "#ff0050"
