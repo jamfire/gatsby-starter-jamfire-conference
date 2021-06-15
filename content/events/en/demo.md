@@ -39,17 +39,16 @@ eventSchedule:
   - startTime: Tuesday, January 1, 2030 11:55 AM
     title: Wrapping Up
     description: How to deploy
-
 eventRooms:
   - slug: jamfire-conference-room-1
     title: Conference Room 1
-    description: >+
+    description: |+
       Conference Room 1 with a graphic.
 
     image: /assets/conference-room-1.jpg
   - title: Conference Room 2
     slug: jamfire-conference-room-2
-    description: >+
+    description: |+
       Conference Room 2 without a graphic.
 
 eventQA:
@@ -73,6 +72,7 @@ eventSettings:
   chatLabel: Chat
   roomsLabel: Rooms
 ---
+
 ## Welcome to the Demo Event
 
 This event showcases every feature available for a single event. Try opening the page on your mobile device or a tablet. This site is fully responsive.

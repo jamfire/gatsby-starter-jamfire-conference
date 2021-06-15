@@ -40,17 +40,16 @@ eventSchedule:
   - startTime: Friday, January 1, 2021 11:55 AM
     title: Wrapping Up
     description: How to deploy
-
 eventRooms:
   - slug: jamfire-conference-room-1
     title: Conference Room 1
-    description: >+
+    description: |+
       Conference Room 1 with a graphic.
 
     image: /assets/conference-room-1.jpg
   - title: Conference Room 2
     slug: jamfire-conference-room-2
-    description: >+
+    description: |+
       Conference Room 2 without a graphic.
 
 eventQA:
@@ -76,7 +75,7 @@ eventSettings:
 ---
 ## A Custom Demo Event
 
-This is an event that customizes navigation labels, header logo, favicon, and availabe features. Main Stage and All Events navigation items have been disabled. On the desktop version of this page, you will also notice that the event timer in the footer displays that _this event has ended._
+This is an event that customizes navigation labels, header logo, favicon, and available features. Main Stage and All Events navigation items have been disabled. On the desktop version of this page, you will also notice that the event timer in the footer displays that *this event has ended.*
 
 ### Navigation Label Changes
 

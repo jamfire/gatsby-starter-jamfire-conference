@@ -8,18 +8,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.2] - 2021-06-04
 
 ### Fixed
-- Firebase needed ```GATSBY_``` prefixed environment variables to run in the browser.
+
+- Firebase needed `GATSBY_` prefixed environment variables to run in the browser.
 
 ## [1.0.1] - 2021-06-03
 
 ### Changed
+
 - Removed plugin configuration
 
 ### Changed
+
 - Upgraded to Gatsby v3
+
 ## [1.0.0] - 2021-06-1
 
 ### Added
+
 - Initial Release
 - NetlifyCMS for Content Management
 - Firebase for User Authentication and Interaction
