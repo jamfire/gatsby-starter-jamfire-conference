@@ -10,7 +10,7 @@ eventGraphics:
   headerLogo: /assets/demo-logo-2.png
   favicon: /assets/demo-favicon-2.png
 eventBranding:
-  primaryColor: "#114878"
+  primaryColor: "#134979"
   primaryColorHover: "#165891"
 eventSchedule:
   - startTime: Friday, January 1, 2021 10:00 AM
@@ -69,7 +69,7 @@ eventSettings:
   rooms: "true"
   chat: "true"
   allEventsLabel: All Events
-  allEvents: "false"
+  allEvents: true
   chatLabel: Messages
   roomsLabel: Breakouts
 ---

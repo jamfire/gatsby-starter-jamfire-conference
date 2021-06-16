@@ -1,12 +1,19 @@
 ---
 templateKey: page
+slug: /
 title: Bienvenido
+pageBranding:
+  primaryColor: "#2371e3"
+  primaryColorHover: "#4687e5"
+pageGraphics:
+  headerLogo: null
+  featuredImage: /assets/jamfire-home.jpg
 ---
 Este es un sitio de demostración para `gatsby-theme-jamfire-conference`, un
 tema GatsbyJS que trata de empujar los límites de la tecnología Jamstack
 para proporcionar un espacio de conferencias en línea.
 
-## Getting Started
+## Cómo empezar
 
 Sáltate los detalles y dirígete al [starter](https://github.com/jamfire/gatsby-starter-jamfire-conference) si quieres ponerte en marcha rápidamente usando [Netlify](https://netlify.com) o [Gatsby Cloud.](https://www.gatsbyjs.com/products/cloud/) Necesitarás configurar una cuenta de [Google Firebase](https://firebase.google.com/) para poder usar la función de chat y la autenticación de usuarios.
 

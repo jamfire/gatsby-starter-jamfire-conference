@@ -1,15 +1,33 @@
 ---
+templateKey: event
+slug: demod
 title: Un evento de demostración
+eventInformation:
+  startTime: Tuesday, January 1, 2030 10:00 AM
+  endTime: Tuesday, January 1, 2030 12:00 PM
+eventGraphics:
+  favicon: null
+  headerLogo: null
+  lobbyImage: /assets/demo-event.jpg
+eventBranding:
+  primaryColor: "#144d7f"
+  primaryColorHover: "#165891"
 eventSchedule:
-  - startTime: ""
+  - startTime: Tuesday, January 1, 2030 10:00 AM
     title: "Sesión principal #1: Bienvenida"
     description: ¿Qué es el Jamstack?
 eventSettings:
-  allEventsLabel: Todos los eventos
-  mainStageLabel: Escenario principal
-  roomsLabel: Salas
   qaLabel: Q&A
+  mainStage: "true"
+  mainStageLabel: Escenario principal
+  qa: "true"
+  polls: "false"
+  rooms: "true"
+  chat: "true"
+  allEventsLabel: Todos los eventos
+  allEvents: true
   chatLabel: Chat
+  roomsLabel: Salas
 ---
 
 ## Bienvenido al evento de demostración

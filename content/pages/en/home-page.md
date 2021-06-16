@@ -3,14 +3,14 @@ templateKey: page
 slug: /
 title: Welcome
 pageBranding:
-  primaryColor: "#2973e0"
-  primaryColorHover: "#3a7fe4"
+  primaryColor: "#2371e3"
+  primaryColorHover: "#4687e5"
 pageGraphics:
   featuredImage: /assets/jamfire-home.jpg
 ---
-This is a demo site for ```gatsby-theme-jamfire-conference```, a GatsbyJS
+This is a demo site for `gatsby-theme-jamfire-conference`, a GatsbyJS
 theme that tries to push the limits of Jamstack technology to provide an
-online conferencing space.
+online conferencing space. 
 
 ## Getting Started
 
@@ -32,17 +32,17 @@ So what does this site do? It gives you an online conferencing space where you c
 
 This theme features the following:
 
-- Customizable primary and accent colors - Uploadable logos and favicons per event - A Home Page - A Paginated Events Page - And Event pages... - User authentication
+* Customizable primary and accent colors - Uploadable logos and favicons per event - A Home Page - A Paginated Events Page - And Event pages... - User authentication
 
 ## Single Event features
 
-- Lobby area to describe your event - Livestream/Video area for your event - A countdown and event timer before and during the event - Event schedule - Breakout rooms using Jitsi - Chat powered by Firestore - Q&A for your events most needed information - Customizable navigation labels to fit your event
+* Lobby area to describe your event - Livestream/Video area for your event - A countdown and event timer before and during the event - Event schedule - Breakout rooms using Jitsi - Chat powered by Firestore - Q&A for your events most needed information - Customizable navigation labels to fit your event
 
 ## Content Management
 
 This theme uses Netlify CMS to manage content. It was developed in such a way that the theme lives separately from your content. This means that you can keep up-to-date with new features by simply updating the theme without possibly messing up your content.
 
-You will need your Github login where your site is stored to login. You can login by appending ```/admin``` to your domain, for example ```https://localhost:8000/admin```.
+You will need your Github login where your site is stored to login. You can login by appending `/admin` to your domain, for example `https://localhost:8000/admin`.
 
 ## Issues/Bug Reports
 
