@@ -1,6 +1,6 @@
 ---
 templateKey: event
-slug: demod
+slug: demo-5
 title: A Demo Event
 eventInformation:
   startTime: Tuesday, January 1, 2030 10:00 AM
@@ -8,25 +8,6 @@ eventInformation:
   livestreamUrl: https://player.vimeo.com/video/348733803?playsline=1&quality=1080p&autoplay=1&muted=0
 eventGraphics:
   lobbyImage: /assets/demo-event.jpg
-eventRooms:
-  - slug: jamfire-conference-room-1
-    title: Conference Room 1
-    description: |+
-      Conference Room 1 with a graphic.
-
-    image: /assets/conference-room-1.jpg
-  - title: Conference Room 2
-    slug: jamfire-conference-room-2
-    description: |+
-      Conference Room 2 without a graphic.
-
-eventQA:
-  - question: Where can I access this conference?
-    answer: You can access it on desktop, tablet, and mobile devices.
-  - question: What is the Jamstack?
-    answer: Javasript, APIs, and Markup
-  - question: What accounts do I need?
-    answer: Github, Firebase, and Netlify
 eventBranding:
   primaryColor: "#144d7f"
   primaryColorHover: "#165891"
@@ -58,6 +39,25 @@ eventSchedule:
   - startTime: Tuesday, January 1, 2030 11:55 AM
     title: Wrapping Up
     description: How to deploy
+eventRooms:
+  - slug: jamfire-conference-room-1
+    title: Conference Room 1
+    description: |+
+      Conference Room 1 with a graphic.
+
+    image: /assets/conference-room-1.jpg
+  - title: Conference Room 2
+    slug: jamfire-conference-room-2
+    description: |+
+      Conference Room 2 without a graphic.
+
+eventQA:
+  - question: Where can I access this conference?
+    answer: You can access it on desktop, tablet, and mobile devices.
+  - question: What is the Jamstack?
+    answer: Javasript, APIs, and Markup
+  - question: What accounts do I need?
+    answer: Github, Firebase, and Netlify
 eventSettings:
   pollsLabel: Polls
   qaLabel: Q&A
@@ -103,3 +103,5 @@ This event showcases every feature available for a single event. Try opening the
 **Dark Mode** - Automatically set by the users computer or toggled using the Dark Mode toggle button.
 
 **Login/Logout** - For accessing chat and hopefully more as new features are added to the theme.
+
+Other

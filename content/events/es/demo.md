@@ -1,6 +1,6 @@
 ---
 templateKey: event
-slug: demod
+slug: demo-5
 title: Un evento de demostración
 eventInformation:
   startTime: Tuesday, January 1, 2030 10:00 AM
