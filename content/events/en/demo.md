@@ -1,6 +1,6 @@
 ---
 templateKey: event
-slug: demo-5
+slug: demo
 title: A Demo Event
 eventInformation:
   startTime: Tuesday, January 1, 2030 10:00 AM
