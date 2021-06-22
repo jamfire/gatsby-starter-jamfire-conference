@@ -6,7 +6,7 @@ pageBranding:
   primaryColor: "#2371e3"
   primaryColorHover: "#4687e5"
 pageGraphics:
-  featuredImage: /assets/jamfire-home.jpg
+  featuredImage: /assets/demo-event.jpg
 ---
 This is a demo site for `gatsby-theme-jamfire-conference`, a GatsbyJS
 theme that tries to push the limits of Jamstack technology to provide an
