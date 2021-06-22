@@ -1,15 +1,15 @@
 ---
 templateKey: event
-slug: demo
+slug: demo-5
 title: A Demo Event
 eventInformation:
   startTime: Tuesday, January 1, 2030 10:00 AM
   endTime: Tuesday, January 1, 2030 12:00 PM
   livestreamUrl: https://player.vimeo.com/video/348733803?playsline=1&quality=1080p&autoplay=1&muted=0
 eventGraphics:
-  lobbyImage: ../assets/demo-event.jpg
+  lobbyImage: /assets/demo-event.jpg
 eventBranding:
-  primaryColor: "#114878"
+  primaryColor: "#144d7f"
   primaryColorHover: "#165891"
 eventSchedule:
   - startTime: Tuesday, January 1, 2030 10:00 AM
@@ -39,17 +39,16 @@ eventSchedule:
   - startTime: Tuesday, January 1, 2030 11:55 AM
     title: Wrapping Up
     description: How to deploy
-
 eventRooms:
   - slug: jamfire-conference-room-1
     title: Conference Room 1
-    description: >+
+    description: |+
       Conference Room 1 with a graphic.
 
     image: /assets/conference-room-1.jpg
   - title: Conference Room 2
     slug: jamfire-conference-room-2
-    description: >+
+    description: |+
       Conference Room 2 without a graphic.
 
 eventQA:
@@ -69,7 +68,7 @@ eventSettings:
   rooms: "true"
   chat: "true"
   allEventsLabel: All Events
-  allEvents: "true"
+  allEvents: true
   chatLabel: Chat
   roomsLabel: Rooms
 ---
@@ -104,3 +103,5 @@ This event showcases every feature available for a single event. Try opening the
 **Dark Mode** - Automatically set by the users computer or toggled using the Dark Mode toggle button.
 
 **Login/Logout** - For accessing chat and hopefully more as new features are added to the theme.
+
+Other
