@@ -21,9 +21,10 @@ analyticsCookies:
     settings.
   enabled: true
 ---
-#### What cookies are used on this website? 
 
-This website utilizes two categories of cookies. 
+#### What cookies are used on this website?
+
+This website utilizes two categories of cookies.
 
 ##### Necessary Cookies
 

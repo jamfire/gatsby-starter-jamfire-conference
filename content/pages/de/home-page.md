@@ -8,9 +8,10 @@ pageBranding:
 pageGraphics:
   featuredImage: /assets/demo-event.jpg
 ---
+
 Dies ist eine Demo-Seite für `gatsby-theme-jamfire-conference`, ein GatsbyJS
 Thema, das versucht, die Grenzen der Jamstack-Technologie zu erweitern, um einen
-Online-Konferenzraum zu bieten. 
+Online-Konferenzraum zu bieten.
 
 ## Erste Schritte
 
@@ -32,11 +33,11 @@ Was macht diese Website also? Sie bietet Ihnen einen Online-Konferenzraum, in de
 
 Dieses Theme bietet die folgenden Funktionen:
 
-* Anpassbare Grund- und Akzentfarben - Hochladbare Logos und Favicons pro Veranstaltung - Eine Startseite - Eine paginierte Veranstaltungsseite - Und Veranstaltungsseiten... - Benutzer-Authentifizierung
+- Anpassbare Grund- und Akzentfarben - Hochladbare Logos und Favicons pro Veranstaltung - Eine Startseite - Eine paginierte Veranstaltungsseite - Und Veranstaltungsseiten... - Benutzer-Authentifizierung
 
 ## Einzelne Event-Funktionen
 
-* Lobby-Bereich zur Beschreibung Ihrer Veranstaltung - Livestream/Video-Bereich für Ihre Veranstaltung - Ein Countdown und Event-Timer vor und während der Veranstaltung - Event-Zeitplan - Breakout-Räume mit Jitsi - Chat powered by Firestore - Q&A für die wichtigsten Informationen zu Ihrer Veranstaltung - Anpassbare Navigationsbeschriftungen für Ihre Veranstaltung
+- Lobby-Bereich zur Beschreibung Ihrer Veranstaltung - Livestream/Video-Bereich für Ihre Veranstaltung - Ein Countdown und Event-Timer vor und während der Veranstaltung - Event-Zeitplan - Breakout-Räume mit Jitsi - Chat powered by Firestore - Q&A für die wichtigsten Informationen zu Ihrer Veranstaltung - Anpassbare Navigationsbeschriftungen für Ihre Veranstaltung
 
 ## Inhaltsmanagement
 

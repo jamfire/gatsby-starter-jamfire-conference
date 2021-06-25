@@ -9,6 +9,7 @@ pageGraphics:
   headerLogo: null
   featuredImage: /assets/demo-event.jpg
 ---
+
 Este es un sitio de demostración para `gatsby-theme-jamfire-conference`, un
 tema GatsbyJS que trata de empujar los límites de la tecnología Jamstack
 para proporcionar un espacio de conferencias en línea.
@@ -33,11 +34,11 @@ Este tema está construido usando GatsbyJS, NetlifyCMS, y Firebase. GatsbyJS es 
 
 Este tema cuenta con lo siguiente:
 
-* Colores primarios y de acento personalizables - Logos y favicons por evento que se pueden cargar - Una página de inicio - Una página de eventos paginada - Y páginas de eventos... - Autentificación del usuario
+- Colores primarios y de acento personalizables - Logos y favicons por evento que se pueden cargar - Una página de inicio - Una página de eventos paginada - Y páginas de eventos... - Autentificación del usuario
 
 ## Características del evento único
 
-* Área del vestíbulo para describir su evento - Área de Livestream/Video para su evento - Una cuenta atrás y un temporizador del evento antes y durante el mismo - Programa del evento - Salas de reuniones utilizando Jitsi - Chat con Firestore - Preguntas y respuestas para la información más necesaria de su evento - Etiquetas de navegación personalizables para adaptarse a su evento
+- Área del vestíbulo para describir su evento - Área de Livestream/Video para su evento - Una cuenta atrás y un temporizador del evento antes y durante el mismo - Programa del evento - Salas de reuniones utilizando Jitsi - Chat con Firestore - Preguntas y respuestas para la información más necesaria de su evento - Etiquetas de navegación personalizables para adaptarse a su evento
 
 ## Gestión de contenidos
 

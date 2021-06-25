@@ -3,8 +3,8 @@ templateKey: event
 slug: demo
 title: Un evento de demostración
 eventInformation:
-  startTime: Tuesday, January 1, 2030 10:00 AM
-  endTime: Tuesday, January 1, 2030 12:00 PM
+  startTime: 01/30/2030 10:00 -0500
+  endTime: 01/30/2030 12:00 -0500
 eventGraphics:
   favicon: null
   headerLogo: null
@@ -13,17 +13,19 @@ eventBranding:
   primaryColor: "#144d7f"
   primaryColorHover: "#165891"
 eventSchedule:
-  - startTime: Tuesday, January 1, 2030 10:00 AM
+  - startTime: 01/30/2020 10:00 -0500
     title: "Sesión principal #1: Bienvenida"
     description: ¿Qué es el Jamstack?
 eventSettings:
   qaLabel: Q&A
-  mainStage: "true"
+  mainStage: true
   mainStageLabel: Escenario principal
-  qa: "true"
-  polls: "false"
-  rooms: "true"
-  chat: "true"
+  qa: true
+  mainStageFeature: chat
+  polls: false
+  schedule: true
+  rooms: true
+  chat: true
   allEventsLabel: Todos los eventos
   allEvents: true
   chatLabel: Chat
