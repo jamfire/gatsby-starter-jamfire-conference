@@ -19,6 +19,7 @@ eventSettings:
   schedule: true
   rooms: true
   qa: true
+  map: false
 ---
 
 ## Un evento de demostración personalizado

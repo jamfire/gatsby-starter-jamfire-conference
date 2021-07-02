@@ -69,9 +69,11 @@ eventSettings:
   polls: false
   schedule: true
   rooms: true
+  mapLabel: Attendees
   chat: true
   allEventsLabel: All Events
   allEvents: false
+  map: false
   chatLabel: Messages
   roomsLabel: Breakouts
   scheduleLabel: Schedule

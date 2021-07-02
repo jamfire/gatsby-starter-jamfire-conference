@@ -61,6 +61,7 @@ eventSettings:
   schedule: true
   rooms: true
   qa: true
+  map: true
 ---
 ## Bienvenido al evento de demostración
 

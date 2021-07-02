@@ -70,9 +70,11 @@ eventSettings:
   polls: false
   schedule: true
   rooms: true
+  mapLabel: Attendees
   chat: true
   allEventsLabel: All Events
   allEvents: true
+  map: true
   chatLabel: Chat
   roomsLabel: Rooms
   scheduleLabel: Schedule
