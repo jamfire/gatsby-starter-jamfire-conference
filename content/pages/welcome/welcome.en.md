@@ -6,7 +6,7 @@ pageBranding:
   primaryColor: "#2371e3"
   primaryColorHover: "#4687e5"
 pageGraphics:
-  featuredImage: /assets/demo-event-2.jpg
+  featuredImage: demo-event-2.jpg
 ---
 
 This is a demo site for `gatsby-theme-jamfire-conference`, a GatsbyJS
@@ -15,7 +15,7 @@ online conferencing space.
 
 ## Getting Started
 
-Skip the details and head on over to the [starter](https://github.com/jamfire/gatsby-starter-jamfire-conference) if you want to get up and running quickly using [Netlify](https://netlify.com) or [Gatsby Cloud.](https://www.gatsbyjs.com/products/cloud/) You will need to setup a [Google Firebase](https://firebase.google.com/) account in order to use the chat feature and user authentication.
+Skip the details and head on over to the [starter](https://github.com/jamfire/gatsby-starter-jamfire-conference "Starter Package") if you want to get up and running quickly using [Netlify](https://netlify.com "Netlify") or [Gatsby Cloud.](https://www.gatsbyjs.com/products/cloud/ "Gastby Cloud") You will need to setup a [Google Firebase](https://firebase.google.com/) account in order to use the chat feature and user authentication.
 
 Or you can one-click deploy to [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/jamfire/gatsby-starter-jamfire-conference) or [Gatsby Cloud](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/jamfire/gatsby-starter-jamfire-conference) but dont forget, you need to setup your [environmental config](https://github.com/jamfire/gatsby-theme-jamfire-conference#seting-up-your-environment) for your site to work correctly:
 

@@ -7,9 +7,9 @@ eventInformation:
   endTime: 01/30/2030 12:00 -0500
   livestreamUrl: https://player.vimeo.com/video/348733803?playsline=1&quality=1080p&autoplay=1&muted=0
 eventGraphics:
-  lobbyImage: /assets/demo-event.jpg
-  favicon: /assets/demo-favicon.png
-  headerLogo: /assets/demo-logo.png
+  lobbyImage: demo-event.jpg
+  favicon: ""
+  headerLogo: ""
 eventBranding:
   primaryColor: "#144d7f"
   primaryColorHover: "#165891"
@@ -47,7 +47,7 @@ eventRooms:
     description: |+
       Conference Room 1 with a graphic.
 
-    image: /assets/conference-room-1.jpg
+    image: pexels-bruno-salvadori-2269872.jpg
   - title: Conference Room 2
     slug: jamfire-conference-room-2
     description: |+
@@ -79,7 +79,6 @@ eventSettings:
   roomsLabel: Rooms
   scheduleLabel: Schedule
 ---
-
 ## Welcome to the Demo Event
 
 This event showcases every feature available for a single event. Try opening the page on your mobile device or a tablet. This site is fully responsive.
@@ -105,6 +104,8 @@ This event showcases every feature available for a single event. Try opening the
 **Chat** - Available to logged-in users, a place to interact with other guests at your online event.
 
 **Q&A** - The catch-all place to answer your events most frequently asked questions.
+
+**Map** - A guest map featuring who is attending your event.
 
 ### Human interaction
 

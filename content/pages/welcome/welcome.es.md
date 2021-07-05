@@ -6,7 +6,7 @@ pageBranding:
   primaryColorHover: "#4687e5"
 pageGraphics:
   headerLogo: null
-  featuredImage: /assets/demo-event-2.jpg
+  featuredImage: demo-event-2.jpg
 ---
 
 Este es un sitio de demostración para `gatsby-theme-jamfire-conference`, un tema GatsbyJS

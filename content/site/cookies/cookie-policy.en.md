@@ -4,7 +4,6 @@ title: Cookie Policy
 cookieNotification:
   title: Your choice regarding cookies
   content: We use cookies to remember your account settings, and for analytics.
-    [Learn more](/cookies)
 necessaryCookies:
   title: Necessary Cookies
   content: These cookies are necessary for our website to function. They cannot be

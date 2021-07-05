@@ -5,9 +5,9 @@ eventInformation:
   startTime: 01/30/2030 10:00 -0500
   endTime: 01/30/2030 12:00 -0500
 eventGraphics:
-  favicon: /assets/demo-favicon.png
-  headerLogo: /assets/demo-logo.png
-  lobbyImage: /assets/demo-event.jpg
+  favicon: ""
+  headerLogo: ""
+  lobbyImage: demo-event.jpg
 eventBranding:
   primaryColor: "#144d7f"
   primaryColorHover: "#165891"
@@ -44,7 +44,7 @@ eventRooms:
     title: Sala de Conferencias 1
     description: |
       Sala de conferencias 1 con un gráfico.
-    image: /assets/conference-room-1.jpg
+    image: conference-room-1.jpg
 eventQA:
   - question: ¿Dónde puedo acceder a esta conferencia?
     answer: Puede acceder a ella en el escritorio, la tableta y los dispositivos

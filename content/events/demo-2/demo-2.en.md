@@ -6,9 +6,9 @@ eventInformation:
   startTime: 01/31/2021 10:00 -0500
   endTime: 01/31/2021 12:00 -0500
 eventGraphics:
-  lobbyImage: /assets/demo-event-2.jpg
-  headerLogo: /assets/demo-logo-2.png
-  favicon: /assets/demo-favicon-2.png
+  lobbyImage: demo-event-2.jpg
+  headerLogo: demo-logo-2.png
+  favicon: demo-favicon-2.png
 eventBranding:
   primaryColor: "#134978"
   primaryColorHover: "#165891"
@@ -46,7 +46,7 @@ eventRooms:
     description: |+
       Conference Room 1 with a graphic.
 
-    image: /assets/conference-room-1.jpg
+    image: conference-room-1.jpg
   - title: Conference Room 2
     slug: jamfire-conference-room-2
     description: |+
