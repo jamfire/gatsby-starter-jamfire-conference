@@ -3,8 +3,12 @@ templateKey: event
 slug: demo
 title: A Demo Event
 eventInformation:
-  startTime: 01/30/2030 10:00 -0500
-  endTime: 01/30/2030 12:00 -0500
+  startTime:
+    datetime: 2030-01-30T10:00:00.000-05:00
+    timezone: America/New_York
+  endTime:
+    datetime: 2030-01-30T12:00:00.000-05:00
+    timezone: America/New_York
   livestreamUrl: https://player.vimeo.com/video/348733803?playsline=1&quality=1080p&autoplay=1&muted=0
 eventGraphics:
   lobbyImage: demo-event.jpg
@@ -14,7 +18,9 @@ eventBranding:
   primaryColor: "#144d7f"
   primaryColorHover: "#165891"
 eventSchedule:
-  - startTime: 01/30/2030 10:00 -0500
+  - startTime:
+      datetime: 2030-01-30 10:00
+      timezone: America/New_York
     title: "Main Session #1: Welcome"
     description: What is the Jamstack?
   - startTime: 01/30/2030 10:20 -0500

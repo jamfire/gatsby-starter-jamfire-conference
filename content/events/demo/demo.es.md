@@ -2,8 +2,12 @@
 slug: demo
 title: Un evento de demostración
 eventInformation:
-  startTime: 01/30/2030 10:00 -0500
-  endTime: 01/30/2030 12:00 -0500
+  startTime:
+    datetime: 2030-01-30T10:00:00.000-05:00
+    timezone: America/New_York
+  endTime:
+    datetime: 2030-01-30T12:00:00.000-05:00
+    timezone: America/New_York
 eventGraphics:
   favicon: ""
   headerLogo: ""
@@ -44,7 +48,7 @@ eventRooms:
     title: Sala de Conferencias 1
     description: |
       Sala de conferencias 1 con un gráfico.
-    image: conference-room-1.jpg
+    image: pexels-bruno-salvadori-2269872.jpg
 eventQA:
   - question: ¿Dónde puedo acceder a esta conferencia?
     answer: Puede acceder a ella en el escritorio, la tableta y los dispositivos
