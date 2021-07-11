@@ -16,31 +16,49 @@ eventBranding:
   primaryColor: "#144d7f"
   primaryColorHover: "#165891"
 eventSchedule:
-  - startTime: 01/30/2030 10:00 -0500
+  - startTime:
+      datetime: 2030-01-30T10:00:00.000-05:00
+      timezone: America/New_York
     title: "Sesión principal #1: Bienvenida"
     description: ¿Qué es el Jamstack?
-  - startTime: 01/30/2030 10:20 -0500
+  - startTime:
+      datetime: 2030-01-30T10:30:00.000-05:00
+      timezone: America/New_York
     title: "Sesión de trabajo #1"
     description: Anfitriones de la mesa
-  - startTime: 01/30/2030 10:35 -0500
+  - startTime:
+      datetime: 2030-01-30T10:35:00.000-05:00
+      timezone: America/New_York
     title: "Sesión principal #2: Javascript"
     description: Por qué es importante Javascript
-  - startTime: 01/30/2030 10:45 -0500
+  - startTime:
+      datetime: 2030-01-30T10:45:00.000-05:00
+      timezone: America/New_York
     title: "Sesión de trabajo #2"
     description: Mesas Anfitrionas
-  - startTime: 01/30/2030 11:00 -0500
+  - startTime:
+      datetime: 2030-01-30T11:00:00.000-05:00
+      timezone: America/New_York
     title: "Sesión principal #3: APIs"
     description: Por qué son importantes las API
-  - startTime: 01/30/2030 11:15 -0500
+  - startTime:
+      datetime: 2030-01-30T11:15:00.000-05:00
+      timezone: America/New_York
     title: "Sesión de trabajo #3"
     description: Anfitriones de la mesa
-  - startTime: 01/30/2030 11:300 -0500
+  - startTime:
+      datetime: 2030-01-30T11:30:00.000-05:00
+      timezone: America/New_York
     title: "Sesión principal #4: Marcaje"
     description: Uso de NetlifyCMS para gestionar su contenido
-  - startTime: 01/30/2030 11:40 -0500
+  - startTime:
+      datetime: 2030-01-30T11:40:00.000-05:00
+      timezone: America/New_York
     title: "Sesión de trabajo #4"
     description: Anfitriones de la mesa
-  - startTime: 01/30/2030 11:55 -0500
+  - startTime:
+      datetime: 2030-01-30T11:55:00.000-05:00
+      timezone: America/New_York
     title: Conclusión
     description: Cómo desplegar
 eventRooms:

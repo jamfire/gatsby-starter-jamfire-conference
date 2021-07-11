@@ -3,8 +3,12 @@ templateKey: event
 slug: demo-2
 title: Customized Demo
 eventInformation:
-  startTime: 01/31/2021 10:00 -0500
-  endTime: 01/31/2021 12:00 -0500
+  startTime:
+    datetime: 2021-01-31T10:00:00.000-05:00
+    timezone: America/New_York
+  endTime:
+    datetime: 2021-01-31T12:00:00.000-05:00
+    timezone: America/New_York
 eventGraphics:
   lobbyImage: demo-event-2.jpg
   headerLogo: demo-logo-2.png
@@ -13,31 +17,49 @@ eventBranding:
   primaryColor: "#134978"
   primaryColorHover: "#165891"
 eventSchedule:
-  - startTime: 01/30/2021 10:00 -0500
+  - startTime:
+      datetime: 2021-01-31T10:00:00.000-05:00
+      timezone: America/New_York
     title: "Main Session #1: Welcome"
     description: What is the Jamstack?
-  - startTime: 01/30/2021 10:20 -0500
+  - startTime:
+      datetime: 2021-01-31T10:20:00.000-05:00
+      timezone: America/New_York
     title: "Breakout Session #1"
     description: Table Hosts
-  - startTime: 01/30/2021 10:35 -0500
+  - startTime:
+      datetime: 2021-01-31T10:35:00.000-05:00
+      timezone: America/New_York
     title: "Main Session #2: Javascript"
     description: Why Javascrpt matters
-  - startTime: 01/30/2021 10:45 -0500
+  - startTime:
+      datetime: 2021-01-31T10:45:00.000-05:00
+      timezone: America/New_York
     title: "Breakout Session #2"
     description: Tables Hosts
-  - startTime: 01/30/2021 11:00 -0500
+  - startTime:
+      datetime: 2021-01-31T11:00:00.000-05:00
+      timezone: America/New_York
     title: "Main Session #3: APIs"
     description: Why APIs matter
-  - startTime: 01/30/2021 11:15 -0500
+  - startTime:
+      datetime: 2021-01-31T11:15:00.000-05:00
+      timezone: America/New_York
     title: "Breakout Session #3"
     description: Table Hosts
-  - startTime: 01/30/2021 10:30 -0500
+  - startTime:
+      datetime: 2021-01-31T11:30:00.000-05:00
+      timezone: America/New_York
     title: "Main Session #4: Markup"
     description: Using NetlifyCMS to manage your content
-  - startTime: 01/30/2021 10:40 -0500
+  - startTime:
+      datetime: 2021-01-31T11:40:00.000-05:00
+      timezone: America/New_York
     title: "Breakout Session #4"
     description: Table Hosts
-  - startTime: 01/30/2021 10:55 -0500
+  - startTime:
+      datetime: 2021-01-31T11:55:00.000-05:00
+      timezone: America/New_York
     title: Wrapping Up
     description: How to deploy
 eventRooms:

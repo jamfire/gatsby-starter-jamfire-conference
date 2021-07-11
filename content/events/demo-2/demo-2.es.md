@@ -2,8 +2,12 @@
 slug: demo-2
 title: Demostración personalizada
 eventInformation:
-  startTime: 01/31/2021 10:00 -0500
-  endTime: 01/31/2021 12:00 -0500
+  startTime:
+    datetime: 2021-01-31T10:00:00.000-05:00
+    timezone: America/New_York
+  endTime:
+    datetime: 2021-01-31T12:00:00.000-05:00
+    timezone: America/New_York
 eventGraphics:
   favicon: demo-favicon-2.png
   headerLogo: demo-logo-2.png
