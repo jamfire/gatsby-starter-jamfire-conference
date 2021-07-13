@@ -48,4 +48,4 @@ Necesitarás tu nombre de usuario de Github donde se almacena tu sitio para inic
 ## Problemas/Informes de errores
 
 ¿Has encontrado un problema? [Informar.](https://github.com/jamfire/gatsby-theme-jamfire-conference/issues)
- Translated with www.DeepL.com/Translator (free version)
+Translated with www.DeepL.com/Translator (free version)

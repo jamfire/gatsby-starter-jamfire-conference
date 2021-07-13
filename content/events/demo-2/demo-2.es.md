@@ -28,7 +28,7 @@ eventSettings:
 
 ## Un evento de demostración personalizado
 
-Este es un evento que personaliza las etiquetas de navegación, el logotipo de la cabecera, el favicon y las funciones disponibles. Los elementos de navegación Main Stage y All Events han sido desactivados. En la versión de escritorio de esta página, también notará que el temporizador del evento en el pie de página muestra que _este evento ha terminado.
+Este es un evento que personaliza las etiquetas de navegación, el logotipo de la cabecera, el favicon y las funciones disponibles. Los elementos de navegación Main Stage y All Events han sido desactivados. En la versión de escritorio de esta página, también notará que el temporizador del evento en el pie de página muestra que \_este evento ha terminado.
 
 ### Cambios en las etiquetas de navegación
 

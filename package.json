@@ -4,7 +4,11 @@
   "version": "1.0.8",
   "private": true,
   "main": "index.js",
-  "author": "Kaleb Heitzman",
+  "author": {
+    "name": "Kaleb Heitzman",
+    "email": "kaleb@jamfire.io",
+    "url": "https://jamfire.io"
+  },
   "license": "GPL-3.0",
   "dependencies": {
     "gatsby": "^3.0.0",
@@ -31,7 +35,7 @@
   "homepage": "https://github.com/jamfire/gatsby-jamfire-conference",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamfire/gatsby-jamfire-conference/starters/gatsby-starter-jamfire-conference"
+    "url": "https://github.com/jamfire/gatsby-jamfire-conference/packages/gatsby-starter-jamfire-conference"
   },
   "bugs": {
     "url": "https://github.com/jamfire/gatsby-jamfire-conference/issues"

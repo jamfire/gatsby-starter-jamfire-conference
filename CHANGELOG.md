@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Changed
 
 - Updated content to match new NetlifyCMS config
+
 ## [1.0.3] - 2021-06-21
 
 ### Added

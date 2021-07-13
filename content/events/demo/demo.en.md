@@ -101,6 +101,7 @@ eventSettings:
   roomsLabel: Rooms
   scheduleLabel: Schedule
 ---
+
 ## Welcome to the Demo Event
 
 This event showcases every feature available for a single event. Try opening the page on your mobile device or a tablet. This site is fully responsive.
